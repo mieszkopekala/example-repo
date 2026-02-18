@@ -20,3 +20,8 @@ nav a {
     background-color:blue;
     padding: 1rem;
 } 
+
+.wrapper {
+    background-color:cadetblue;
+    margin: 0;
+}
