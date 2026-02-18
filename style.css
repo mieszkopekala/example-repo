@@ -1,0 +1,15 @@
+h1 {
+    color:red;
+    font-size: rem;
+    font-family: helvetica;
+}
+
+h2 {
+    color:chocolate;
+    font-size: rem;
+    font-family: sans-serif;
+}
+
+.page-heading {
+    color:aqua;
+}
