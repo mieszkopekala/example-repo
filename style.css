@@ -13,3 +13,10 @@ h2 {
 .page-heading {
     color:aqua;
 }
+
+nav a {
+    text-decoration: none;
+    color:white;
+    background-color:blue;
+    padding: 1rem;
+} 
